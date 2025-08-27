@@ -1,0 +1,62 @@
+Política de Privacidade e Segurança de Dados
+
+Aplicativo: Gestão de Pagamentos
+Vigência: 27/08/2025
+Responsável: Flavio Correia
+
+1. Escopo e finalidade
+
+O Gestão de Pagamentos é um aplicativo desenvolvido para auxiliar na organização de clientes, produtos e vendas realizadas.
+Este aplicativo funciona exclusivamente de forma offline, ou seja, não realiza conexão com a internet nem transmite dados a servidores externos.
+Todas as informações inseridas pelo usuário são armazenadas apenas no dispositivo do próprio usuário, em um banco de dados SQLite local.
+
+2. Dados armazenados
+
+O aplicativo pode armazenar informações como:
+Dados de clientes (ex.: nome, telefone, e-mail, endereço — se inseridos manualmente pelo usuário);
+Dados de produtos (ex.: descrição, valores);
+Registros de vendas e transações.
+Essas informações são salvas somente no dispositivo do usuário, e nunca são coletadas, transmitidas, compartilhadas ou acessadas pelo desenvolvedor.
+
+3. Responsabilidade pelo uso e segurança
+
+Como os dados ficam integralmente armazenados no aparelho, a segurança, sigilo e uso adequado dessas informações são de responsabilidade exclusiva do portador do dispositivo.
+Recomenda-se que o usuário:
+Proteja seu dispositivo com senha, biometria ou outro método de bloqueio;
+Realize backups periódicos (quando possível);
+Não compartilhe seu aparelho ou exporte os dados sem cautela.
+O desenvolvedor não tem acesso, não coleta e não gerencia as informações cadastradas no aplicativo.
+
+4. Segurança interna
+
+O aplicativo utiliza o SQLite como banco de dados local, armazenando informações apenas em memória interna do dispositivo.
+Não existe criptografia nativa dos dados no banco, portanto recomenda-se que o usuário utilize os recursos de segurança do próprio sistema operacional Android para proteger seus dados.
+
+5. Compartilhamento de informações
+
+Não há compartilhamento automático de informações com terceiros.
+Qualquer exportação, cópia ou compartilhamento de dados depende exclusivamente da ação do usuário no seu dispositivo.
+
+6. Retenção de dados
+
+Os dados permanecem armazenados no dispositivo enquanto o usuário mantiver o aplicativo instalado ou até que sejam manualmente excluídos.
+Se o aplicativo for desinstalado, os dados podem ser apagados permanentemente, sem possibilidade de recuperação pelo desenvolvedor.
+
+7. Direitos do usuário
+
+Como os dados não são coletados pelo desenvolvedor, não há solicitação de acesso, correção ou exclusão junto ao criador do aplicativo.
+Esses direitos podem ser exercidos diretamente pelo usuário, dentro do próprio dispositivo, gerenciando ou excluindo manualmente suas informações.
+
+8. Menores de idade
+
+O aplicativo não é voltado para crianças ou adolescentes. Caso seja utilizado por menores, a responsabilidade pelo uso e proteção das informações inseridas é dos pais ou responsáveis legais.
+
+9. Alterações nesta política
+
+Esta política pode ser atualizada ocasionalmente para melhor esclarecer o funcionamento do aplicativo. A versão atualizada será disponibilizada junto com novas versões do app.
+
+10. Contato
+
+Para dúvidas relacionadas ao funcionamento do aplicativo:
+Responsável: Flavio Correia
+E-mail: flaviocorreiaf@gmail.com
