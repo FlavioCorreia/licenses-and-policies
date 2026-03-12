@@ -1,0 +1,49 @@
+Política de Privacidade: Comanda Digital
+Última atualização: 12 de março de 2026
+
+A sua privacidade é importante para nós. Esta Política de Privacidade explica como o Comanda Digital coleta, utiliza e protege suas informações ao utilizar nosso aplicativo.
+
+1. Coleta de Informações
+Para oferecer nossas funcionalidades de rateio de conta, coletamos os seguintes dados:
+
+Imagens e Câmera: Solicitamos acesso à câmera para a digitalização de cupons fiscais via OCR. As imagens são processadas para extrair nomes de itens e preços.
+
+Dados de Uso e Sessão: Através do Firebase, coletamos IDs de sessão temporários para permitir que vários usuários interajam com a mesma conta em tempo real.
+
+Identificadores de Dispositivo: Podemos coletar informações básicas sobre o modelo do aparelho para garantir a compatibilidade do sistema.
+
+2. Uso das Informações
+Os dados coletados são utilizados exclusivamente para:
+
+Processar e listar itens de consumo (via Google Cloud Vision API).
+
+Sincronizar seleções de itens entre usuários na mesma mesa (via Cloud Firestore).
+
+Melhorar a precisão do cálculo de taxas e gorjetas.
+
+3. Compartilhamento de Dados
+Não vendemos seus dados a terceiros. O compartilhamento ocorre apenas de forma técnica para o funcionamento do app:
+
+Google Cloud Vision: Para transformar a foto do cupom em texto.
+
+Firebase (Google): Para armazenamento em nuvem e sincronização em tempo real entre os convidados da mesa.
+
+4. Armazenamento e Exclusão
+Os dados das comandas são temporários. Como o foco do app é o rateio imediato, as sessões de conta podem ser excluídas após o fechamento da divisão ou após um período de inatividade.
+
+5. Permissões Necessárias
+Para o funcionamento pleno, o usuário deverá autorizar:
+
+Câmera: Essencial para a leitura do QR Code ou foto da conta.
+
+Internet: Necessária para a sincronização entre os dispositivos.
+
+6. Segurança
+Implementamos medidas de segurança padrão da indústria para proteger suas informações contra acesso não autorizado ou alteração.
+
+7. Seus Direitos
+De acordo com a LGPD, você tem o direito de acessar, corrigir ou excluir seus dados a qualquer momento. Caso tenha dúvidas, entre em contato conosco.
+
+8. Para dúvidas relacionadas ao funcionamento do aplicativo e contato:
+Responsável: Flavio Correia
+E-mail: flaviocorreiaf@gmail.com
